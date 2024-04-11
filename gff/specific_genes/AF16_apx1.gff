@@ -1,0 +1,27 @@
+V	WormBase	gene	2584439	2591365	.	+	.	ID=Gene:WBGene00040504;Name=WBGene00040504;locus=Cbr-apx-1;sequence_name=CBG21821;biotype=protein_coding;so_term_name=protein_coding_gene;curie=WB:WBGene00040504;Alias=Cbr-apx-1,CBG21821
+V	WormBase	mRNA	2584439	2591365	.	+	.	ID=Transcript:CBG21821.1;Parent=Gene:WBGene00040504;Name=CBG21821.1;wormpep=CBP11960;locus=Cbr-apx-1
+V	WormBase	exon	2584439	2584742	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	five_prime_UTR	2584439	2584465	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2584466	2584742	.	+	0	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2584743	2584928	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2584929	2585049	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2584929	2585049	.	+	2	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2585050	2586159	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2586160	2586281	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2586160	2586281	.	+	1	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2586282	2587808	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2587809	2588003	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2587809	2588003	.	+	2	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2588004	2588242	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2588243	2588419	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2588243	2588419	.	+	2	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2588420	2589303	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2589304	2589600	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2589304	2589600	.	+	2	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2589601	2590031	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2590032	2590183	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2590032	2590183	.	+	2	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	intron	2590184	2590975	.	+	.	Parent=Transcript:CBG21821.1;Note=Confirmed_EST briggsae_GG2990%7Cc0_g1_i1 %3B 
+V	WormBase	exon	2590976	2591365	.	+	.	Parent=Transcript:CBG21821.1
+V	WormBase	CDS	2590976	2591155	.	+	0	ID=CDS:CBG21821;Parent=Transcript:CBG21821.1;Name=CBG21821;prediction_status=Confirmed;wormpep=CBP11960;protein_id=CAP38534.2;locus=Cbr-apx-1
+V	WormBase	three_prime_UTR	2591156	2591365	.	+	.	Parent=Transcript:CBG21821.1

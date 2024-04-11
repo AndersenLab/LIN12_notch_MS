@@ -1,0 +1,26 @@
+III	WormBase	gene	10458881	10466015	.	-	.	ID=Gene:WBGene00029037;Name=WBGene00029037;locus=Cbr-lin-12.3;sequence_name=CBG06829;biotype=protein_coding;so_term_name=protein_coding_gene;curie=WB:WBGene00029037;Alias=Cbr-lin-12.3,CBG06829
+III	WormBase	mRNA	10458881	10466015	.	-	.	ID=Transcript:CBG06829.1;Parent=Gene:WBGene00029037;Name=CBG06829.1;wormpep=CBP49628;locus=Cbr-lin-12.3
+III	WormBase	exon	10458881	10459116	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	three_prime_UTR	10458881	10459116	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	intron	10459117	10459167	.	-	.	Parent=Transcript:CBG06829.1;Note=Confirmed_EST briggsae_GG5439%7Cc1_g2_i1 %3B 
+III	WormBase	three_prime_UTR	10459168	10459198	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10459168	10459732	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10459199	10459732	.	-	0	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10459733	10459780	.	-	.	Parent=Transcript:CBG06829.1;Note=Confirmed_EST briggsae_GG5439%7Cc1_g2_i1 %3B 
+III	WormBase	exon	10459781	10460518	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10459781	10460518	.	-	0	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10460519	10460922	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10460923	10461532	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10460923	10461532	.	-	1	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10461533	10461582	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10461583	10461844	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10461583	10461844	.	-	2	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10461845	10461893	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10461894	10461951	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10461894	10461951	.	-	0	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10461952	10463760	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10463761	10463875	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10463761	10463875	.	-	1	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3
+III	WormBase	intron	10463876	10465872	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	exon	10465873	10466015	.	-	.	Parent=Transcript:CBG06829.1
+III	WormBase	CDS	10465873	10466015	.	-	0	ID=CDS:CBG06829;Parent=Transcript:CBG06829.1;Name=CBG06829;prediction_status=Partially_confirmed;wormpep=CBP49628;protein_id=CAP27070.1;locus=Cbr-lin-12.3

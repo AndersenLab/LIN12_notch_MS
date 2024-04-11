@@ -1,0 +1,12 @@
+PDUG01000010.1	Andersen_lab	gene	137924	143708	.	+	.	ID=Gene:extended4_010.g27411;Name=extended4_010.g27411;biotype=protein_coding
+PDUG01000010.1	Andersen_lab	mRNA	137924	143708	.	+	.	ID=transcript:extended4_010.g27411.1;Parent=gene:extended4_010.g27411;Name=extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	exon	137924	138130	.	+	.	ID=exon:extended4_010.g27411.1.1;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	CDS	137988	138130	.	+	0	ID=cds:extended4_010.g27411.1;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	exon	139811	139926	.	+	.	ID=exon:extended4_010.g27411.1.2;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	CDS	139811	139926	.	+	1	ID=cds:extended4_010.g27411.1;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	exon	140949	141005	.	+	.	ID=exon:extended4_010.g27411.1.3;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	CDS	140949	141005	.	+	2	ID=cds:extended4_010.g27411.1;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	exon	142396	142592	.	+	.	ID=exon:extended4_010.g27411.1.4;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	CDS	142396	142592	.	+	2	ID=cds:extended4_010.g27411.1;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	exon	143385	143708	.	+	.	ID=exon:extended4_010.g27411.1.5;Parent=transcript:extended4_010.g27411.1
+PDUG01000010.1	Andersen_lab	CDS	143385	143708	.	+	0	ID=cds:extended4_010.g27411.1;Parent=transcript:extended4_010.g27411.1
